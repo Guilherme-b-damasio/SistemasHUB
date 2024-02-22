@@ -1,0 +1,8 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+RewriteCond %{HTTP_HOST} ^sistemashub\.tintomax\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.sistemashub\.tintomax\.com\.br$
+RewriteRule ^/?$ "http\:\/\/sistemashub\.tintomax\.com\.br\/catalogo\.php" [R=301,L]
+

@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ff7b00;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-left, .navbar-right {
+flex: 1;
+}
+
+.navbar-center {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 160px;
+    height: auto;
+}
+
+time {
+    border: 1px solid #f7f7f700;
+    padding: 4px 12px;
+    background-color: #c4501a6e;
+    color: #f7f7f7;
+    font-size: 1em;
+    font-weight: 500;
+    border-radius: 10px;
+}

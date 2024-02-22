@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: rgb(255, 255, 255);
+}
+
+body {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-align: center;
+ font-size: 12.5px;
+ background-color: rgb(255, 255, 255);
+ color: orange;
+}
+
+body p span {
+  font: 700 4em/1 "Oswald", sans-serif;
+  letter-spacing: 0;
+  padding: .15em 0 .225em;
+  display: block;
+  margin: 0 auto;
+  text-shadow: 0 0 40px rgba(255, 183, 16, 0.264);
+  color: #ff7b00;
+  background: none;
+  -webkit-text-fill-color: initial;
+}
+
+header {
+  padding: 0 auto;
+  border-bottom: 0px solid #333;
+  font-weight: 700; 
+}
+
+/* Estilos da Barra de Navegação */
+.navbar {
+  display: flex;
+  justify-content: center; /* Centraliza os itens na horizontal */
+  align-items: center; /* Centraliza os itens na vertical */
+  background-color: #fff; /* Cor de fundo da barra de navegação */
+  padding: 10px 20px; /* Espaçamento interno da barra de navegação */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Sombra opcional para a barra */
+}
+
+/* Estilos do Logo */
+.logo {
+  width: 160px; /* Tamanho do logo */
+  height: auto;
+  margin: 0; /* Removendo margens adicionais */
+  padding: 0; /* Removendo paddings adicionais */
+}
+
+.page-subtitle {
+  margin: 0;
+  font-weight: 500;
+  font-size: large;
+  text-align: center;
+  flex-grow: 1; /* Faz com que ocupe o espaço disponível */
+}
+
+
+/* Estilos do Menu Interativo */
+.menu {
+  display: block;
+  box-sizing: border-box;
+  background: white;
+  height: 54px;
+  width: 54px;
+  padding: 36px;
+  border-radius: 6px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
+  transition: 1.3s cubic-bezier(.53, 0, .15, 1.3);
+}
+
+.menu.expanded {
+  width: 264px;
+}
+
+span {
+  padding: 9px;
+  white-space: nowrap;
+  visibility: visible;
+  opacity: 1;
+  transition: .3s;
+  transform: rotateY(0deg);
+}
+
+span:nth-of-type(1) { transition-delay: .4s; }
+span:nth-of-type(2) { transition-delay: .5s; }
+span:nth-of-type(3) { transition-delay: .6s; }
+span:nth-of-type(4) { transition-delay: .7s; }
+
+span.hidden {
+  width: 0;
+  visibility: hidden;
+  opacity: 0;
+  transform: rotateY(90deg);
+}
+
+span.hidden:nth-of-type(1) { transition-delay: .3s; }
+span.hidden:nth-of-type(2) { transition-delay: .2s; }
+span.hidden:nth-of-type(3) { transition-delay: .1s; }
+span.hidden:nth-of-type(4) { transition-delay: 0s; }
+
+.container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transition: 1s;
+}
+
+.container.close {
+  right: 0;
+}
+
+.toggle {
+  position: relative;
+  height: 46.2px;
+  width: 47.6px;
+  cursor: pointer;
+}
+
+.toggle:after,
+.toggle:before {
+  content: '';
+  background: #ff8400;
+  width: 36px;
+  height: 4.5px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  transition: 1.3s cubic-bezier(.53, 0, .15, 1.3);
+}
+
+.toggle:before { top: -30%; }
+.toggle:after { top: 30%; }
+
+.toggle.close:before {
+  transform: rotate(-225deg);
+  top: 0;
+}
+
+.toggle.close:after {
+  transform: rotate(225deg);
+  top: 0;
+}
+
+
+

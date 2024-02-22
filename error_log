@@ -1,0 +1,54 @@
+[12-Feb-2024 18:22:11 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 81
+[12-Feb-2024 18:22:11 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 81
+[12-Feb-2024 18:22:11 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 83
+[12-Feb-2024 18:22:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 83
+[12-Feb-2024 18:22:47 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 81
+[12-Feb-2024 18:22:47 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 81
+[12-Feb-2024 18:22:47 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 83
+[12-Feb-2024 18:22:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 83
+[12-Feb-2024 18:22:53 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 81
+[12-Feb-2024 18:22:53 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 81
+[12-Feb-2024 18:22:53 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 83
+[12-Feb-2024 18:22:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 83
+[12-Feb-2024 18:23:23 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 81
+[12-Feb-2024 18:23:23 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 81
+[12-Feb-2024 18:23:23 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 83
+[12-Feb-2024 18:23:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php on line 83
+[12-Feb-2024 18:23:35 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:23:35 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:23:35 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:23:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:23:52 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:23:52 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:23:52 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:23:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:24:14 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:24:14 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:24:14 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:24:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:24:17 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/editarProjs.php on line 62
+[12-Feb-2024 18:24:17 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/editarProjs.php on line 62
+[12-Feb-2024 18:24:17 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/editarProjs.php on line 64
+[12-Feb-2024 18:24:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/editarProjs.php on line 64
+[12-Feb-2024 18:24:21 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:24:21 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:24:21 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:24:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:25:06 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:25:06 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:25:06 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:25:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:26:10 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:26:10 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 109
+[12-Feb-2024 18:26:10 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:26:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/admin.php on line 112
+[12-Feb-2024 18:28:51 UTC] PHP Warning:  include(DB\catalogoDB.php): failed to open stream: No such file or directory in /home/tintomax/public_html/sistemashub.tintomax.com.br/editarProjs.php on line 62
+[12-Feb-2024 18:28:51 UTC] PHP Warning:  include(): Failed opening 'DB\catalogoDB.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tintomax/public_html/sistemashub.tintomax.com.br/editarProjs.php on line 62
+[12-Feb-2024 18:28:51 UTC] PHP Notice:  Undefined variable: projetos in /home/tintomax/public_html/sistemashub.tintomax.com.br/editarProjs.php on line 64
+[12-Feb-2024 18:28:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tintomax/public_html/sistemashub.tintomax.com.br/editarProjs.php on line 64
+[19-Feb-2024 21:49:54 UTC] PHP Notice:  Undefined variable: conexao in /home/tintomax/public_html/sistemashub.tintomax.com.br/DB/catalogoDB.php on line 7
+[19-Feb-2024 21:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tintomax/public_html/sistemashub.tintomax.com.br/DB/catalogoDB.php:7
+Stack trace:
+#0 /home/tintomax/public_html/sistemashub.tintomax.com.br/catalogo.php(72): include()
+#1 {main}
+  thrown in /home/tintomax/public_html/sistemashub.tintomax.com.br/DB/catalogoDB.php on line 7
