@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Guilherme-b-damasio/SistemasHUB/assets/153876817/1fc45525-9d43-4fee-aef7-46e87fb3fdf9.png" alt="PHP-logo svg" width="100">
-  <img src="https://github.com/Guilherme-b-damasio/SistemasHUB/assets/153876817/d48b9906-1ce0-42fb-843d-51fb309b33ef.png" alt="Mysql_logo" width="100">
-  <img src="https://github.com/Guilherme-b-damasio/SistemasHUB/assets/153876817/1d5838d1-7ba4-4bdc-accf-52c08f3cc463.png" alt="hyml" width="100">
-  <img src="https://github.com/Guilherme-b-damasio/SistemasHUB/assets/153876817/cffb1a5c-5b39-4908-a0b8-67a43f47b533.png" alt="j" width="100">
+    <img height="30" alt="Javascript" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+	  <img height="30" alt="Javascript" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+	  <img height="30" alt="Javascript" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img height="30" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 # SistemaHub
