@@ -51,7 +51,7 @@ SistemaHub é um hub de sistemas ou catálogo de projetos, projetado para facili
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/SistemaHub.git
+   git clone https://github.com/guilherme-b-damasio/SistemaHub.git
    cd SistemaHub
 
 2. Configure o banco de dados e as configurações de acesso em conexao.php.
