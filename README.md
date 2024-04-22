@@ -64,7 +64,3 @@ SistemaHub é um hub de sistemas ou catálogo de projetos, projetado para facili
 
     php -S localhost:8000
     Acesse http://localhost:8000 no navegador.
-
-
-## Contribuições
-Contribuições são bem-vindas! Por favor, siga as diretrizes de contribuição.
